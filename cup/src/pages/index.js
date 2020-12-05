@@ -11,7 +11,7 @@ const IndexPage = () => (
     <h1>Cup of Jo</h1>
     <h2>something Witty</h2>
     <p>More Something</p>
-    <link to="/contact"></link>
+    <link to="/contact.js"></link>
   </Layout>
 )
 
