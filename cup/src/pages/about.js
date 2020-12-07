@@ -6,7 +6,13 @@ import SEO from "../components/seo"
 const About = () => {
     return(
         <Layout>
-            <h1>Everything You Never Needed To Know About Jo</h1>
+            <SEO title="About"/>
+            <div style={{color:`maroon`, fontFamily:`monospace`}}>
+            <h2>Everything You Never Needed To Know About Jo</h2>
+            <p> 
+                So, as you know by now, I'm Jo. I'm 23, and live in Dallas. 
+            </p>
+            </div>
         </Layout>
     )
 }

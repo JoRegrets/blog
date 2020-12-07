@@ -1,7 +1,11 @@
+const { withAuthenticationRequired } = require("@auth0/auth0-react")
+
+require("dotenv").config()
+
 module.exports = {
   siteMetadata: {
     title: `Cup of Jo`,
-    description: `Blog of Life`,
+    description: `ya know`,
     author: `@joregrets`,
   },
   plugins: [
