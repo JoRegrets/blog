@@ -14,9 +14,7 @@ const About = () => {
                 I have far too much free time, now so why not start a blog?
                 Less cliche than a podcast thats for sure. 
             </p>
-            <p>
-                
-            </p>
+            
             </div>
         </Layout>
     )

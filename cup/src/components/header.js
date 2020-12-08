@@ -9,7 +9,7 @@ const Header = ({ siteTitle, siteDescription, about, contact, blog }) => (
   <header
     style={{
       background: `maroon`,
-      marginBottom: `1.45rem`,
+      marginBottom: `1.5rem`,
       fontFamily: `monospace`
     }}
   >
